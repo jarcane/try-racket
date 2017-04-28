@@ -1,6 +1,8 @@
 try-racket
 ==========
 
+**NOTE: This repo is no longer maintained**
+
 A web-based Racket REPL and tutorial.
 
 Try Racket is written in Racket and JavaScript with Chris Done's [jquery-console](https://github.com/chrisdone/jquery-console).
@@ -19,9 +21,7 @@ Slight additional modifications have since been made to remove dependencies on X
 
 ## Online host
 
-Try Racket is hosted online at http://try-racket.org and http://try.racket-lang.org
-
-Please feel free to report any issues with the website here; the current maintainer (John Berry) is also the webmaster for the try-racket.org site.
+try-racket is no longer hosted online due to server maintenance issues.
 
 ## License
 
